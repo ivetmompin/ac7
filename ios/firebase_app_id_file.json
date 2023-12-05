@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:848135561725:ios:217324ebc8742f56d77994",
-  "FIREBASE_PROJECT_ID": "recipe-maker-19922",
-  "GCM_SENDER_ID": "848135561725"
+  "GOOGLE_APP_ID": "1:165018223192:ios:b8715e70a70e24f10fc02d",
+  "FIREBASE_PROJECT_ID": "ac7marcivet",
+  "GCM_SENDER_ID": "165018223192"
 }

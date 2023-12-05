@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "848135561725",
-    "project_id": "recipe-maker-19922",
-    "storage_bucket": "recipe-maker-19922.appspot.com"
+    "project_number": "165018223192",
+    "project_id": "ac7marcivet",
+    "storage_bucket": "ac7marcivet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:848135561725:android:83fb871c5e915e6dd77994",
+        "mobilesdk_app_id": "1:165018223192:android:765669be2de9cb7b0fc02d",
         "android_client_info": {
-          "package_name": "com.example.ac7"
+          "package_name": "com.example.ac7MarcIvet"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyByOU8vM0zM00uv8A-unFCMELWnu2BpC8c"
+          "current_key": "AIzaSyD3_t7o3pyL-eTOZKH48NHSh-lfOFZZmQo"
         }
       ],
       "services": {

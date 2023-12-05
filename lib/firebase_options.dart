@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD89Q_fGnFYdyTJaDOAbz-VffkkBDCZv3s',
-    appId: '1:848135561725:web:5f6e4e449a5451fdd77994',
-    messagingSenderId: '848135561725',
-    projectId: 'recipe-maker-19922',
-    authDomain: 'recipe-maker-19922.firebaseapp.com',
-    storageBucket: 'recipe-maker-19922.appspot.com',
-    measurementId: 'G-N4NVGDHNZS',
+    apiKey: 'AIzaSyCAk0pX-BlEfzwoE_J2zFXQTxp7AgCAa6g',
+    appId: '1:165018223192:web:4f0118199dd93edc0fc02d',
+    messagingSenderId: '165018223192',
+    projectId: 'ac7marcivet',
+    authDomain: 'ac7marcivet.firebaseapp.com',
+    storageBucket: 'ac7marcivet.appspot.com',
+    measurementId: 'G-TPVESKVFTC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyByOU8vM0zM00uv8A-unFCMELWnu2BpC8c',
-    appId: '1:848135561725:android:83fb871c5e915e6dd77994',
-    messagingSenderId: '848135561725',
-    projectId: 'recipe-maker-19922',
-    storageBucket: 'recipe-maker-19922.appspot.com',
+    apiKey: 'AIzaSyD3_t7o3pyL-eTOZKH48NHSh-lfOFZZmQo',
+    appId: '1:165018223192:android:765669be2de9cb7b0fc02d',
+    messagingSenderId: '165018223192',
+    projectId: 'ac7marcivet',
+    storageBucket: 'ac7marcivet.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDu7wLBIsCujAV8itp0-omggI_QoxBn9pc',
-    appId: '1:848135561725:ios:217324ebc8742f56d77994',
-    messagingSenderId: '848135561725',
-    projectId: 'recipe-maker-19922',
-    storageBucket: 'recipe-maker-19922.appspot.com',
+    apiKey: 'AIzaSyAVdxnwzKImeMPJH_3lE4irA6F5FbwjcNY',
+    appId: '1:165018223192:ios:b8715e70a70e24f10fc02d',
+    messagingSenderId: '165018223192',
+    projectId: 'ac7marcivet',
+    storageBucket: 'ac7marcivet.appspot.com',
     iosBundleId: 'com.example.ac7',
   );
 }
